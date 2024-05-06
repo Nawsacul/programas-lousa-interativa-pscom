@@ -1,0 +1,250 @@
+{
+  "programas": [
+    {
+      "nome": "Balanço Geral",
+      "imagem": "./cartela_balanco_geral.jpg",
+      "links": [
+        {
+          "site": "Home",
+          "link": "/programaatual",
+          "icon": "FaHome",
+          "color": "#5D5FEF"
+        },
+        {
+          "site": "TNH1",
+          "link": "https://www.tnh1.com.br/",
+          "icon": "FaNewspaper",
+          "color": "#E8A87C"
+        },
+        {
+          "site": "Waze",
+          "link": "https://www.waze.com/pt-PT/live-map/",
+          "icon": "FaWaze",
+          "color": "#3498DB"
+        },
+        {
+          "site": "Windy",
+          "link": "https://www.windy.com/pt/-Base-de-nuvens-cbase?cbase,-9.649,-35.717,11",
+          "icon": "TiWeatherWindyCloudy",
+          "color": "#48C9B0"
+        },
+        {
+          "site": "Midiat Balanço Geral - Midia",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=midia",
+          "icon": "FaCamera",
+          "color": "#F39C12"
+        },
+        {
+          "site": "Midiat Balanço Geral - Denúncias",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=denuncia",
+          "icon": "FaExclamationTriangle",
+          "color": "#D35400"
+        },
+        {
+          "site": "Youtube",
+          "link": "https://www.youtube.com/c/TVPaju%C3%A7ara/featured",
+          "icon": "FaYoutube",
+          "color": "#C0392B"
+        },
+        {
+          "site": "Facebook",
+          "link": "https://www.facebook.com/tvpajucara/?locale=pt_BR",
+          "icon": "FaFacebook",
+          "color": "#3B5998"
+        }
+      ]
+    },
+    {
+      "nome": "Fique Alerta",
+      "imagem": "./cartela_fique_alerta_v2.png",
+      "links": [
+        {
+          "site": "Home",
+          "link": "/programaatual",
+          "icon": "FaHome",
+          "color": "#5D5FEF"
+        },
+        {
+          "site": "TNH1",
+          "link": "https://www.tnh1.com.br/",
+          "icon": "FaNewspaper",
+          "color": "#E8A87C"
+        },
+        {
+          "site": "Waze",
+          "link": "https://www.waze.com/pt-PT/live-map/",
+          "icon": "FaWaze",
+          "color": "#3498DB"
+        },
+        {
+          "site": "Windy",
+          "link": "https://www.windy.com/pt/-Base-de-nuvens-cbase?cbase,-9.649,-35.717,11",
+          "icon": "TiWeatherWindyCloudy",
+          "color": "#48C9B0"
+        },
+        {
+          "site": "Midiat Fique Alerta - Midia",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/fique-alerta/?tipoMensagem=midia",
+          "icon": "FaCamera",
+          "color": "#F39C12"
+        },
+        {
+          "site": "Midiat Fique Alerta - Denúncias",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/fique-alerta/?tipoMensagem=denuncia",
+          "icon": "FaExclamationTriangle",
+          "color": "#D35400"
+        },
+        {
+          "site": "Midiat Fique Alerta - Aniversariantes",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/fique-alerta/?tipoMensagem=aniversariante",
+          "icon": "FaBirthdayCake",
+          "color": "#FF69B4"
+        },
+        {
+          "site": "Youtube",
+          "link": "https://www.youtube.com/c/TVPaju%C3%A7ara/featured",
+          "icon": "FaYoutube",
+          "color": "#C0392B"
+        },
+        {
+          "site": "Facebook",
+          "link": "https://www.facebook.com/tvpajucara/?locale=pt_BR",
+          "icon": "FaFacebook",
+          "color": "#3B5998"
+        }
+      ]
+    },
+    {
+      "nome": "Hora do Ventura",
+      "imagem": "./cartela_hora_do_ventura.jpg",
+      "links": [
+        {
+          "site": "Home",
+          "link": "/programaatual",
+          "icon": "FaHome",
+          "color": "#5D5FEF"
+        },
+        {
+          "site": "TNH1",
+          "link": "https://www.tnh1.com.br/",
+          "icon": "FaNewspaper",
+          "color": "#E8A87C"
+        },
+        {
+          "site": "Youtube",
+          "link": "https://www.youtube.com/@TVPajucara",
+          "icon": "FaYoutube",
+          "color": "#C0392B"
+        },
+        {
+          "site": "Facebook",
+          "link": "https://www.facebook.com/BalancoGeralAlagoas/",
+          "icon": "FaFacebook",
+          "color": "#3B5998"
+        },
+        {
+          "site": "Instagram",
+          "link": "https://www.instagram.com/tvpajucara/",
+          "icon": "FaInstagram",
+          "color": "#9B59B6"
+        },
+        {
+          "site": "Waze",
+          "link": "https://embed.waze.com/pt-BR/iframe?zoom=13&lat=-9.616744&lon=-35.737839&ct=livemap",
+          "icon": "FaWaze",
+          "color": "#3498DB"
+        },
+        {
+          "site": "Windy",
+          "link": "https://www.windy.com/?-9.634,-35.799,11",
+          "icon": "TiWeatherWindyCloudy",
+          "color": "#48C9B0"
+        },
+        {
+          "site": "Midiat Balanço Geral",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/",
+          "icon": "FaUsers",
+          "color": "#E74C3C"
+        },
+        {
+          "site": "Midiat - Midia",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=midia",
+          "icon": "FaCamera",
+          "color": "#F39C12"
+        },
+        {
+          "site": "Midiat Balanço Geral - Denúncias",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=denuncia",
+          "icon": "FaExclamationTriangle",
+          "color": "#D35400"
+        }
+      ]
+    },
+    {
+      "nome": "Cidade Alerta",
+      "imagem": "./cartela_cidade_al.png",
+      "links": [
+        {
+          "site": "Home",
+          "link": "/webview",
+          "icon": "FaHome",
+          "color": "#5D5FEF"
+        },
+        {
+          "site": "TNH1",
+          "link": "https://www.tnh1.com.br/",
+          "icon": "FaNewspaper",
+          "color": "#E8A87C"
+        },
+        {
+          "site": "Youtube",
+          "link": "https://www.youtube.com/@TVPajucara",
+          "icon": "FaYoutube",
+          "color": "#C0392B"
+        },
+        {
+          "site": "Facebook",
+          "link": "https://www.facebook.com/BalancoGeralAlagoas/",
+          "icon": "FaFacebook",
+          "color": "#3B5998"
+        },
+        {
+          "site": "Instagram",
+          "link": "https://www.instagram.com/tvpajucara/",
+          "icon": "FaInstagram",
+          "color": "#9B59B6"
+        },
+        {
+          "site": "Waze",
+          "link": "https://embed.waze.com/pt-BR/iframe?zoom=13&lat=-9.616744&lon=-35.737839&ct=livemap",
+          "icon": "FaWaze",
+          "color": "#3498DB"
+        },
+        {
+          "site": "Windy",
+          "link": "https://www.windy.com/?-9.634,-35.799,11",
+          "icon": "TiWeatherWindyCloudy",
+          "color": "#48C9B0"
+        },
+        {
+          "site": "Midiat Balanço Geral",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/",
+          "icon": "FaUsers",
+          "color": "#E74C3C"
+        },
+        {
+          "site": "Midiat - Midia",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=midia",
+          "icon": "FaCamera",
+          "color": "#F39C12"
+        },
+        {
+          "site": "Midiat Balanço Geral - Denúncias",
+          "link": "https://i.midiat.com.br/tvpajucara/programas/balanco-geral/?tipoMensagem=denuncia",
+          "icon": "FaExclamationTriangle",
+          "color": "#D35400"
+        }
+      ]
+    }
+  ]
+}
