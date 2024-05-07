@@ -66,7 +66,7 @@
       {
         "site": "TNH1",
         "link": "https://www.tnh1.com.br/",
-        "icon": "FaNewspaper",
+        "icon": "./tnh1logo.png",
         "color": "#E8A87C"
       },
       {
@@ -126,7 +126,7 @@
       {
         "site": "TNH1",
         "link": "https://www.tnh1.com.br/",
-        "icon": "FaNewspaper",
+        "icon": "./tnh1logo.png",
         "color": "#E8A87C"
       },
       {
@@ -192,7 +192,7 @@
       {
         "site": "TNH1",
         "link": "https://www.tnh1.com.br/",
-        "icon": "FaNewspaper",
+        "icon": "./tnh1logo.png",
         "color": "#E8A87C"
       },
       {
