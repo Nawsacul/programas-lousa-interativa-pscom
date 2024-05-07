@@ -77,7 +77,7 @@
       },
       {
         "site": "Windy",
-        "link": "https://www.windy.com/pt/-Base-de-nuvens-cbase?cbase,-9.649,-35.717,11",
+        "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.579,-35.760,8",
         "icon": "TiWeatherWindyCloudy",
         "color": "#48C9B0"
       },
@@ -155,7 +155,7 @@
       },
       {
         "site": "Windy",
-        "link": "https://www.windy.com/?-9.634,-35.799,11",
+        "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.579,-35.760,8",
         "icon": "TiWeatherWindyCloudy",
         "color": "#48C9B0"
       },
@@ -221,7 +221,7 @@
       },
       {
         "site": "Windy",
-        "link": "https://www.windy.com/?-9.634,-35.799,11",
+        "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.579,-35.760,8",
         "icon": "TiWeatherWindyCloudy",
         "color": "#48C9B0"
       },
