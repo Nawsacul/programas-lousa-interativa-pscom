@@ -1,7 +1,7 @@
 [
   {
     "nome": "Balanço Geral",
-    "imagem": "./cartelabg.mp4",
+    "imagem": "./TELAO-BG-AL-HORIZONTAL.mp4",
     "links": [
       {
         "site": "Home",
@@ -23,7 +23,7 @@
       },
       {
         "site": "Windy",
-        "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.579,-35.760,8",
+        "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.617,-35.755,9",
         "icon": "TiWeatherWindyCloudy",
         "color": "#48C9B0"
       },
@@ -41,13 +41,13 @@
       },
       {
         "site": "Youtube",
-        "link": "https://www.youtube.com/c/TVPaju%C3%A7ara/featured",
+        "link": "https://www.youtube.com/@TVPajucara/live",
         "icon": "FaYoutube",
         "color": "#C0392B"
       },
       {
         "site": "Facebook",
-        "link": "https://www.facebook.com/tvpajucara/?locale=pt_BR",
+        "link": "https://www.facebook.com/tvpajucara/live",
         "icon": "FaFacebook",
         "color": "#3B5998"
       }
