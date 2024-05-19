@@ -22,6 +22,12 @@
         "color": "#3498DB"
       },
       {
+        "site": "Cittamobi",
+        "link": "https://mapa.cittamobi.com.br/emap/index.html?zoneControls=1",
+        "icon": "FaBus",
+        "color": "#b1a6cc"
+      },
+      {
         "site": "Windy",
         "link": "https://www.windy.com/pt/-Sat%C3%A9lite-satellite?satellite,-9.617,-35.755,9",
         "icon": "TiWeatherWindyCloudy",
