@@ -71,7 +71,7 @@
       },
       {
         "site": "TNH1",
-        "link": "https://www.tnh1.com.br/",
+        "link": "https://www.tnh1.com.br/o-portal-de-noticias-lider-em-alagoas/",
         "icon": "./tnh1logo.png",
         "color": "#E8A87C"
       },
@@ -80,6 +80,12 @@
         "link": "https://www.waze.com/pt-PT/live-map/",
         "icon": "FaWaze",
         "color": "#3498DB"
+      },
+      {
+        "site": "Cittamobi",
+        "link": "https://mapa.cittamobi.com.br/emap/index.html?zoneControls=1",
+        "icon": "FaBus",
+        "color": "#b1a6cc"
       },
       {
         "site": "Windy",
